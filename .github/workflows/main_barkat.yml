@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'barkat'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FEDEB262F33442D2BC78BDC45F890047 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B745B19DC75E42298DD0886698121C32 }}
           package: .
